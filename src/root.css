@@ -1,0 +1,98 @@
+body {}
+
+div#root {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App {
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 70px;
+  align-items: flex-start;
+  gap: 40px;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 20px;
+  border-radius: 16px;
+  width: 1200px;
+  flex-wrap: wrap;
+}
+
+.graphics {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.appSignature {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  gap: 10px;
+}
+
+.title {
+  font-size: 30px;
+  /* font-weight: bold; */
+}
+
+.item {
+  display: flex;
+  grid-gap: 20px;
+  gap: 20px;
+  font-size: 20px;
+  align-items: center;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+}
+.btns_item-text{
+  min-width: 60px;
+  display: flex;
+  gap:5px;
+}
+.beta {
+  background: #ff7300;
+}
+
+.alpha {
+  background: #75001b;
+}
+
+.container {
+  max-width: 800px;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  background: #f2f2f2;
+  padding: 1rem;
+  border: 3px solid black;
+}
+
+.sliderBox {
+  display: flex;
+  flex-direction: column;
+  width: 220px
+}
+
+.rc-slider-track {
+  background-color: rgb(194, 196, 194) !important;
+}
+
+.rc-slider-handle {
+  border: solid 1px rgb(0, 0, 0) !important;
+  background: rgb(182, 143, 136) !important;
+  border-radius: 10% !important;
+}
+
+.rc-slider-rail {
+  background-color: white !important;
+}
