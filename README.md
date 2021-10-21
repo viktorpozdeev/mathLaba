@@ -1,2 +1,2 @@
-Поздеев Виктор: https://monpase007.github.io/canvas/
+Поздеев Виктор: https://viktorpozdeev.github.io/mathLaba/
 
