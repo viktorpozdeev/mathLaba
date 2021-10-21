@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mathLaba/static/css/main.5c6a4f6d.chunk.css",
+    "main.js": "/mathLaba/static/js/main.34ad4b84.chunk.js",
+    "main.js.map": "/mathLaba/static/js/main.34ad4b84.chunk.js.map",
+    "runtime-main.js": "/mathLaba/static/js/runtime-main.3d8b091e.js",
+    "runtime-main.js.map": "/mathLaba/static/js/runtime-main.3d8b091e.js.map",
+    "static/css/2.4a35ef0a.chunk.css": "/mathLaba/static/css/2.4a35ef0a.chunk.css",
+    "static/js/2.184e656b.chunk.js": "/mathLaba/static/js/2.184e656b.chunk.js",
+    "static/js/2.184e656b.chunk.js.map": "/mathLaba/static/js/2.184e656b.chunk.js.map",
+    "static/js/3.f1e5c09c.chunk.js": "/mathLaba/static/js/3.f1e5c09c.chunk.js",
+    "static/js/3.f1e5c09c.chunk.js.map": "/mathLaba/static/js/3.f1e5c09c.chunk.js.map",
+    "index.html": "/mathLaba/index.html",
+    "static/css/2.4a35ef0a.chunk.css.map": "/mathLaba/static/css/2.4a35ef0a.chunk.css.map",
+    "static/css/main.5c6a4f6d.chunk.css.map": "/mathLaba/static/css/main.5c6a4f6d.chunk.css.map",
+    "static/js/2.184e656b.chunk.js.LICENSE.txt": "/mathLaba/static/js/2.184e656b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d8b091e.js",
+    "static/css/2.4a35ef0a.chunk.css",
+    "static/js/2.184e656b.chunk.js",
+    "static/css/main.5c6a4f6d.chunk.css",
+    "static/js/main.34ad4b84.chunk.js"
+  ]
+}
